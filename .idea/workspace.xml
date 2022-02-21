@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Added: New pictures for carousel">
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Feature: created footer and added to all pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1644958831130" duration="177000" />
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
-      <workItem from="1645396328355" duration="16991000" />
+      <workItem from="1645396328355" duration="17644000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1645412315891</created>
@@ -110,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645416418937</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feature: created footer and added to all pages">
+      <created>1645417270550</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645417270550</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +129,8 @@
     <MESSAGE value="Bug: Fixed JavaScript references" />
     <MESSAGE value="Added: New media queries to CSS" />
     <MESSAGE value="Added: New pictures for carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added: New pictures for carousel" />
+    <MESSAGE value="Feature: created footer and added to all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: created footer and added to all pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -171,10 +178,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645413137842">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645417278084">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645413137842" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645417278084" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
