@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Feature: Added products to Product List">
-      <change beforePath="$PROJECT_DIR$/productList.html" beforeDir="false" afterPath="$PROJECT_DIR$/productList.html" afterDir="false" />
-    </list>
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Bug: Removed broken code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <workItem from="1644958831130" duration="177000" />
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
-      <workItem from="1645396328355" duration="30552000" />
+      <workItem from="1645396328355" duration="31112000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1645412315891</created>
@@ -136,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645430667563</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Bug: Removed broken components">
+      <created>1645430866641</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645430866641</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Bug: Removed broken code">
+      <created>1645431046752</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645431046752</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +165,9 @@
     <MESSAGE value="Bug: Fixed media queries" />
     <MESSAGE value="Feature: Began work on product list" />
     <MESSAGE value="Feature: Added products to Product List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added products to Product List" />
+    <MESSAGE value="Bug: Removed broken components" />
+    <MESSAGE value="Bug: Removed broken code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug: Removed broken code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -205,10 +219,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645430671006">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645431049221">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645430671006" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645431049221" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
