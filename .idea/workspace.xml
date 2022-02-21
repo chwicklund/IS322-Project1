@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Bug: Fixed media queries">
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Feature: Began work on product list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/landing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/productList.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/productList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/productList.html" beforeDir="false" afterPath="$PROJECT_DIR$/productList.html" afterDir="false" />
     </list>
@@ -41,7 +40,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HistoryWorksSite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week2CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,7 +69,7 @@
       <workItem from="1644958831130" duration="177000" />
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
-      <workItem from="1645396328355" duration="21423000" />
+      <workItem from="1645396328355" duration="30313000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1645412315891</created>
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645418114117</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feature: Began work on product list">
+      <created>1645421904497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645421904497</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +149,8 @@
     <MESSAGE value="Added: New pictures for carousel" />
     <MESSAGE value="Feature: created footer and added to all pages" />
     <MESSAGE value="Bug: Fixed media queries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fixed media queries" />
+    <MESSAGE value="Feature: Began work on product list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Began work on product list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -162,10 +169,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645421213517" />
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1645399683295">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1645425342170">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645399683295" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645425342170" />
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1645396336905" />
     <state x="508" y="259" key="Github.ShareDialog" timestamp="1645411826370">
       <screen x="0" y="0" width="1280" height="720" />
@@ -195,10 +202,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645418119758">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645421913559">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645418119758" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645421913559" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
