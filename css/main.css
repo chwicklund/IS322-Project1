@@ -75,6 +75,14 @@ h1:hover {
     cursor: default;
 }
 
+.carousel {
+    display: flex;
+    justify-content: center;
+}
+.carousel img {
+    display: none;
+}
+
 .footer {
     float: bottom;
     position: fixed;
@@ -102,92 +110,17 @@ h1:hover {
     padding: 20px;
 }
 
-.app-container {
-    width: 1024px;
-    margin: auto;
+.filter-wrapper {
     display: flex;
-    min-height: 100%;
-    background-color: white;
+    margin: 15px 0;
 }
 
-.navigation {
-    flex: 0 0 150px;
-    min-height: 100%;
-    background-color: #3333FF;
-}
-
-.navigation a {
-    display: block;
-    padding: 15px;
-    text-align: center;
-    color: white;
-    font-family: sans-serif;
-    text-decoration: none;
-}
-
-.navigation a:hover {
-    color: red;
-}
-
-.content-container {
-    flex: 1 1 auto;
+#results-table {
     width: 100%;
-    margin: 10px;
+}
+
+#results-table td, #results-table th {
     padding: 5px;
-    display: flex;
-    flex-wrap: wrap;
-
-}
-
-.content-container .card {
-    height: 195px;
-    flex: 0 0 195px;
-    background-color: #bfbfbf;
-    border: 3px solid #333;
-    margin: 5px;
-}
-
-@media only screen and (max-width: 1199px) {
-    .app-container {
-        flex-direction: column;
-        width: 900px;
-    }
-
-    .navigation {
-        min-height: auto;
-        flex: 0 0 35px;
-    }
-
-    .navigation a {
-        display: inline-block;
-    }
-}
-
-@media only screen and (min-width: 750px) and (max-width: 1000px) {
-    .app-container {
-        width: 720px;
-    }
-
-    .content-container .card {
-        flex-basis: 330px;
-        height: 330px;
-    }
-}
-
-@media only screen and (max-width: 749px) {
-    .app-container {
-        margin: 0 15px;
-        width: calc(100% - 30px);
-    }
-
-    .content-container {
-        width: calc(100% - 50px);
-    }
-
-    .content-container .card {
-        height: 50px;
-        flex-basis: 100%;
-    }
 }
 
 @media only screen and (max-width: 768px) {

@@ -15,7 +15,44 @@
     <a href="productList.html" class="active">P R O D U C T S</a>
     <a href="about.html">A B O U T</a>
 </div>
+<div class="container" id="page-wrapper">
 
+    <div class="filter-wrapper">
+
+        <div class="form-group">
+            <label for="orderBy">Order By</label>
+            <select id="orderBy" name="orderBy">
+                <option value="name">Name</option>
+                <option value="published">Published</option>
+                <option value="_id">Article ID</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="published">Show Unpublished?</label>
+            <select id="published" name="published">
+                <option value="true">True</option>
+                <option value="false">False</option>
+            </select>
+        </div>
+
+    </div>
+
+    <table id="results-table" border="1">
+        <thead>
+        <tr>
+            <th>&nbsp;</th>
+            <th>Name</th>
+            <th>Article ID</th>
+            <th>Published</th>
+        </tr>
+        </thead>
+
+        <!-- Results will be added through JavaScript -->
+        <tbody></tbody>
+    </table>
+
+</div>
 <footer>
     <div class="footer-items">
         <h3>Address: 123 Sesame Street</h3>
@@ -23,7 +60,6 @@
         <h3>Instagram: @ReallyBadPants</h3>
     </div>
 </footer>
-
 <script type="text/javascript" src="js/productList.js"></script>
 </body>
 </html>
