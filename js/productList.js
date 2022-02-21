@@ -47,23 +47,6 @@
         productList(sortedResults);
     }
 
-    document.querySelector('#myDropdown').addEventListener('change', function(event){
-        // Event is the JavaScript event that transpired, in our change a CHANGE event.
-        // Target is the element it was performed on, useful for when the event targets
-        // multiple elements.
-        // Value has the name implies is the current value of the input element, if there is one
-        orderBy(event.target.value);
-    });
-
-    window.onload = function() {
-        var sortSel = document.getElementById("sortBy");
-
-        for (var x in ourProducts) {
-            sortSel.options[sortSel.options.length] = new Option(x, x);
-        }
-
-    }
-
 
 })(); // Wrap entire file in self executing function.
       // Keeping all variables declared in this file inside a local scope.
