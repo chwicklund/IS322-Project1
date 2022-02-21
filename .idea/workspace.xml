@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24ZqmKABCFFigwEQrCV0ED3JKgP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HistoryWorksSite" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Charles Wicklund\WebstormProjects\IS322-Project1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="" />
+      <created>1643848613755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643848613755</updated>
+      <workItem from="1643848615263" duration="126000" />
+      <workItem from="1644451608908" duration="644000" />
+      <workItem from="1644958831130" duration="177000" />
+      <workItem from="1644959024245" duration="789000" />
+      <workItem from="1645052903228" duration="430000" />
+      <workItem from="1645396328355" duration="11088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Deployment/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645404293425" />
+    <state x="318" y="42" key="#Options" timestamp="1645399281764">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="318" y="42" key="#Options/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645399281764" />
+    <state x="217" y="6" key="#SSH_Configurations" timestamp="1645398847969">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="217" y="6" key="#SSH_Configurations/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645398847969" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1645399683295">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645399683295" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1645396336905" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1644965622097">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1644965622097" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1644965622082">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1644965622082" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1644965622082">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1644965622082" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1644965622082">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1644965622082" />
+    <state x="142" y="6" key="SettingsEditor" timestamp="1644959195843">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
+    <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="651" y="138" key="ftp.server.browser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645404290392" />
+    <state x="438" y="99" key="webDeployment.PermissionsDialog.Tabs" timestamp="1645399362494">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="438" y="99" key="webDeployment.PermissionsDialog.Tabs/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645399362494" />
+  </component>
+</project>
