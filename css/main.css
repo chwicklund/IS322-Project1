@@ -75,13 +75,31 @@ h1:hover {
     cursor: default;
 }
 
-h3 {
+.footer {
+    float: bottom;
+    position: fixed;
+    height: auto;
+    width: 100vw;
+
+}
+
+.footer-items {
+    display: flex;
     text-align: center;
-    display: inline-grid;
+    float: bottom;
+    justify-content: center;
+}
+
+.footer-items h3 {
+    text-align: center;
+    float: bottom;
+    justify-content: center;
+    display: flex;
     color: #eaeaea;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    padding: 20px;
 }
 
 .app-container {
@@ -172,32 +190,32 @@ h3 {
     }
 }
 
-.footer {
-    float: bottom;
-    position: absolute;
-    height: auto;
-    width: 100vw;
-}
-
 @media only screen and (max-width: 750px) {
     .footer-items {
-        display: inline-grid;
+        display: inline;
     }
     .footer-items h3 {
         float: bottom;
         text-align: center;
         justify-content: center;
+        display: flex;
     }
     .topnav a {
         display: flex;
+        text-align: center;
+        justify-content: center;
+        float: top;
     }
 }
 
 @media only screen and (max-width: 580px) {
     .flexbox h1 {
-        font-size: 95%;
+        font-size: 125%;
     }
     .topnav a {
-        font-size: 95%;
+        font-size: 125%;
+    }
+    .footer-items h3 {
+        font-size: 90%;
     }
 }
