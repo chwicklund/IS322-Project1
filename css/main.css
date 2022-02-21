@@ -75,6 +75,15 @@ h1:hover {
     cursor: default;
 }
 
+h3 {
+    text-align: center;
+    display: inline-grid;
+    color: #eaeaea;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
 .app-container {
     width: 1024px;
     margin: auto;
@@ -160,5 +169,35 @@ h1:hover {
     .content-container .card {
         height: 50px;
         flex-basis: 100%;
+    }
+}
+
+.footer {
+    float: bottom;
+    position: absolute;
+    height: auto;
+    width: 100vw;
+}
+
+@media only screen and (max-width: 750px) {
+    .footer-items {
+        display: inline-grid;
+    }
+    .footer-items h3 {
+        float: bottom;
+        text-align: center;
+        justify-content: center;
+    }
+    .topnav a {
+        display: flex;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .flexbox h1 {
+        font-size: 95%;
+    }
+    .topnav a {
+        font-size: 95%;
     }
 }
