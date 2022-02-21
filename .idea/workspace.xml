@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Feature: Began work on product list">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/productList.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/productList.js" afterDir="false" />
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Feature: Added products to Product List">
       <change beforePath="$PROJECT_DIR$/productList.html" beforeDir="false" afterPath="$PROJECT_DIR$/productList.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +64,7 @@
       <workItem from="1644958831130" duration="177000" />
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
-      <workItem from="1645396328355" duration="30313000" />
+      <workItem from="1645396328355" duration="30552000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1645412315891</created>
@@ -134,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645421904497</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Feature: Added products to Product List">
+      <created>1645430667562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645430667563</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +152,8 @@
     <MESSAGE value="Feature: created footer and added to all pages" />
     <MESSAGE value="Bug: Fixed media queries" />
     <MESSAGE value="Feature: Began work on product list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Began work on product list" />
+    <MESSAGE value="Feature: Added products to Product List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added products to Product List" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -202,10 +205,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645421913559">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645430671006">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645421913559" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645430671006" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
