@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Added: New pictures for carousel">
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Bug: Fixed media queries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/productList.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/productList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productList.html" beforeDir="false" afterPath="$PROJECT_DIR$/productList.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +70,7 @@
       <workItem from="1644958831130" duration="177000" />
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
-      <workItem from="1645396328355" duration="16991000" />
+      <workItem from="1645396328355" duration="21423000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1645412315891</created>
@@ -110,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645416418937</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feature: created footer and added to all pages">
+      <created>1645417270550</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645417270550</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Bug: Fixed media queries">
+      <created>1645418114117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645418114117</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +141,9 @@
     <MESSAGE value="Bug: Fixed JavaScript references" />
     <MESSAGE value="Added: New media queries to CSS" />
     <MESSAGE value="Added: New pictures for carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added: New pictures for carousel" />
+    <MESSAGE value="Feature: created footer and added to all pages" />
+    <MESSAGE value="Bug: Fixed media queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fixed media queries" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -138,6 +158,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="217" y="6" key="#SSH_Configurations/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645398847969" />
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645421213517">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645421213517" />
     <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1645399683295">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -171,10 +195,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645413137842">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645418119758">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645413137842" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645418119758" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
