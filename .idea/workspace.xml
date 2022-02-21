@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="">
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Added: New pictures for carousel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +66,64 @@
       <workItem from="1644958831130" duration="177000" />
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
-      <workItem from="1645396328355" duration="12159000" />
+      <workItem from="1645396328355" duration="16991000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1645412315891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645412315891</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated page titles">
+      <created>1645412965272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645412965272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bug: Changed cursor type on h1">
+      <created>1645413173815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645413173815</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bug: Fixed JavaScript references">
+      <created>1645413239571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645413239571</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added: New media queries to CSS">
+      <created>1645416371739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645416371739</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added: New pictures for carousel">
+      <created>1645416418937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645416418937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Updated page titles" />
+    <MESSAGE value="Bug: Changed cursor type on h1" />
+    <MESSAGE value="Bug: Fixed JavaScript references" />
+    <MESSAGE value="Added: New media queries to CSS" />
+    <MESSAGE value="Added: New pictures for carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added: New pictures for carousel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -117,6 +171,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645413137842">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645413137842" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
