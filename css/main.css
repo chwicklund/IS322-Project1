@@ -118,18 +118,6 @@ h1:hover {
     cursor: default;
 }
 
-.carousel {
-    display: flex;
-    justify-content: center;
-}
-.carousel img {
-    display: inline-flex;
-    height: auto;
-    width: 50%;
-    padding: 25px;
-    border-radius: 50px;
-}
-
 .footer {
     float: bottom;
     position: fixed;
