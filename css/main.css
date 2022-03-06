@@ -181,7 +181,14 @@ select {
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 830px) {
+    img {
+        height: auto;
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 830px) {
     .footer-items {
         display: inline;
     }
@@ -197,6 +204,16 @@ select {
         justify-content: center;
         float: top;
     }
+    .flexbox h1 {
+        font-size: 145%;
+    }
+    .flexbox2 h2 {
+        font-size: 145%;
+    }
+    .flexbox2 p {
+        font-size: 1100%;
+    }
+
 }
 
 @media only screen and (max-width: 580px) {

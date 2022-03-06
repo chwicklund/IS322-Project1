@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Bug: Removed broken code">
+    <list default="true" id="ce62cd74-a857-4f41-9f51-a0905f513f9b" name="Default Changelist" comment="Feature: Added working image carousel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/landing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +84,7 @@
       <workItem from="1644959024245" duration="789000" />
       <workItem from="1645052903228" duration="430000" />
       <workItem from="1645396328355" duration="31873000" />
-      <workItem from="1646594477860" duration="2851000" />
+      <workItem from="1646594477860" duration="3991000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1645412315891</created>
@@ -154,11 +170,29 @@
       <option name="project" value="LOCAL" />
       <updated>1645431046752</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Feature: Added working image carousel">
+      <created>1646597396579</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646597396579</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -173,7 +207,8 @@
     <MESSAGE value="Feature: Added products to Product List" />
     <MESSAGE value="Bug: Removed broken components" />
     <MESSAGE value="Bug: Removed broken code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Removed broken code" />
+    <MESSAGE value="Feature: Added working image carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added working image carousel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Deployment" timestamp="1645404293425">
@@ -225,10 +260,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1644959195843" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645431049221">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1646597486953">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1645431049221" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1646597486953" />
     <state x="651" y="138" key="ftp.server.browser" timestamp="1645404290392">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
